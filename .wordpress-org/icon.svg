@@ -1,0 +1,14 @@
+<svg width="128" height="128" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+ <g>
+  <title>background</title>
+  <rect fill="#fff" id="canvas_background" height="402" width="582" y="-1" x="-1"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <text stroke="#000000" xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="84" id="svg_1" y="89" x="35.738964" stroke-width="0" fill="#b225cb">S</text>
+  <ellipse ry="6.5" rx="6.5" id="svg_2" cy="61.5" cx="105" stroke-width="1.5" stroke="#ffffff" fill="#b225cb"/>
+  <ellipse ry="6.5" rx="6.5" id="svg_3" cy="61.5" cx="20" stroke-width="1.5" stroke="#ffffff" fill="#b225cb"/>
+  <ellipse stroke="#ffffff" id="svg_4" cy="60" cx="104.5" stroke-width="1.5" fill="#b225cb"/>
+ </g>
+</svg>
